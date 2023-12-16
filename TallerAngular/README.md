@@ -1,5 +1,7 @@
 # Taller: Desarrollando una Pokedex Interactiva con Angular
 
+Link Presentación: [PPT](https://onedrive.live.com/edit?id=A6F10DB6040A89F9!639107&resid=A6F10DB6040A89F9!639107&ithint=file%2cpptx&authkey=!AFLhqT_01w8ADC4&wdo=2&cid=a6f10db6040a89f9) 
+
 **Mentor de esta edición:** Gonzalo Fleming G. [@gonzafg2](https://github.com/gonzafg2)
 
 ## Descripción del Taller
